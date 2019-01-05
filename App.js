@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Provider } from 'react-redux';
 import store from './ReduxStore/store';
 import { Platform, StyleSheet, Text, View } from 'react-native';
-import SplashScreen from './Components/SplashScreen/splashScreen';
+import SplashScreen from './Components/LoginScreen/loginScreen';
 
 
 export default class App extends Component {

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">localBussiess</string>
+    <!-- Facebook Account Kit -->
+    <string name="fb_app_id">218804559030719</string>
+    <string name="ak_client_token">6bbe57f135b586788c4104e5fe1cadc4</string>    
 </resources>
